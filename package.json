@@ -1,0 +1,17 @@
+{
+  "name": "book-store-api",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0",
+    "joi": "^17.13.3",
+    "mongoose": "^8.16.4",
+    "nodemon": "^3.1.10"
+  }
+}
